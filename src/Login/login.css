@@ -1,0 +1,28 @@
+.loginform{
+    width: 25%;
+    height: 250px;
+    margin: 5rem 33rem;
+    background-color: rgba(3, 102, 87);
+    padding: 5px 15px;
+    color: white;
+    border-radius: 5px;
+}
+.loginform > h1{
+    text-align: center;
+}
+.loginform > input{
+    position: relative;
+    left: 10%;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 45px;
+}
+.loginform > button { 
+    position: relative;
+    left: 40%;
+    padding: 5px 10px;
+    color: rgb(100, 98, 98);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
